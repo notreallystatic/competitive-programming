@@ -1,0 +1,4 @@
+Useful info about tress:
+1. If a tree has n exterior nodes(the last level is completely filled), then it will have (n - 1) interior nodes.
+2. To find the level of a tree, ceil(log2(n)), where n = number of nodes.
+3. If you print an array which reprsenets a tree, then it will be level order traversal.
